@@ -1,4 +1,4 @@
-# Interactive image segmentation
+# Interactive Medical image segmentation
 This file consists of a deep learning model for interactive image segmentation
 
 Under construction for the paper: Fast interactive medical image segmentation with weakly supervised deep learning method
